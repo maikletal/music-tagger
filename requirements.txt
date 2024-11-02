@@ -1,0 +1,4 @@
+mutagen
+requests
+eyed3
+python-dotenv
